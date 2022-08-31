@@ -1,4 +1,4 @@
-# sheyay.github.io
+# Energy Consumption Prediction for College of Business
 
 Project For McCoy Business School - DATA ANALYTICS INDEPENDENT STUDY PROJECT
 - Design a Cloud data warehouse (GCP, MySQL) to store large datasets from multiple sources
